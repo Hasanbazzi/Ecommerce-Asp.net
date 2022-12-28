@@ -8,5 +8,5 @@ update-Deletion options
 
 Form Validation
 
-Manager only features (manager is the only one who should edit and create foods and specials)
+Manager only features (manager is the only one who should edit and create stuff)
 
